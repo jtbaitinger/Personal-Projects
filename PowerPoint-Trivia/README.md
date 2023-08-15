@@ -13,4 +13,4 @@ I created this PowerPoint tool (Trivia Board.pptm) for keeping track of the scor
 ## Background
 I made this project to teach myself VBA code with the goal of using this scoreboard for a Zoom trivia league. The host shares
 their screen for each game so players can follow along with the questions and scoring. I learned how to use ActiveX controls
-in PowerPoint (the interactive buttons) and how to code using them.
+in PowerPoint (the interactive buttons) and how to edit their code.
