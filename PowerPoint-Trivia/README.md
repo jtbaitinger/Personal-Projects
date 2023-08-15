@@ -1,6 +1,6 @@
 # Trivia Scoreboard Using PowerPoint
 
-I created this PowerPoint tool (Trivia Board.pptm) for keeping track of the score and power-up use for team vs. team trivia games.
+I created this simple PowerPoint tool (Trivia Board.pptm) for keeping track of the score and power-up use for team vs. team trivia games.
 ## Use Notes:
 - The trivia host can paste up to 20 questions on the last slide.
 - The first slide should be the only slide displayed, and the left/right arrow buttons scroll through the questions
